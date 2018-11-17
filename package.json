@@ -1,0 +1,16 @@
+{
+  "name": "react-ez-components",
+  "version": "0.0.1",
+  "description": "A React library for common easy to use components",
+  "license": "MIT",
+  "repository": "PlayLikeNeverB4/react-ez-components",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "ez",
+    "components",
+    "npm",
+    "package",
+    "PlayLikeNeverB4"
+  ]
+}
